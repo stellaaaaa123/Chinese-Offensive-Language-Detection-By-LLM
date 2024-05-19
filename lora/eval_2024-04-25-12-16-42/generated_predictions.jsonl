@@ -1,0 +1,3842 @@
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "作为一个人工智能助手，我的任务是为用户提供帮助和解答。在处理涉及攻击性内容的问题时，我会尽力根据我所接受的训练和用户提供的信息来判断。然而，我的判断可能并不总是准确，因此请您在使用我的建议时保持谨慎。如果您对某个帖子的内容有疑虑，我建议您与其他用户或社区管理员沟通，以便获得更准确的评估。"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "hate"}
+{"label": "hate", "predict": "hate"}
+{"label": "not hate", "predict": "not hate"}
+{"label": "not hate", "predict": "not hate"}
